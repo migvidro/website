@@ -1,0 +1,31 @@
+.contact-me {
+    padding: 50px;
+    background-color: #eaeaea;
+    text-align: center;
+  }
+  
+  .contact-me h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .contact-me p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .social-link {
+    color: #333;
+    transition: color 0.3s;
+  }
+  
+  .social-link:hover {
+    color: #007bff;
+  }
+  
