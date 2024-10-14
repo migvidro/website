@@ -1,6 +1,7 @@
 import React from 'react';
 import AboutMe from './components/AboutMe';
 import Contact from './components/Contact';
+import Experience from './components/Experience';
 import Header from './components/Header';
 
 const App: React.FC = () => {
@@ -8,6 +9,7 @@ const App: React.FC = () => {
     <div>
       <Header />
       <AboutMe />
+      <Experience />
       <Contact />
     </div>
   );
